@@ -1,4 +1,3 @@
-
 <div class="navbar bg-black sticky top-1 rounded-full w-[calc(100%-20px)] mx-auto">
     <div class="navbar-center text-center mx-auto ">
       <!-- svelte-ignore a11y-missing-attribute -->
