@@ -6,7 +6,8 @@
     "build": "vite build",
     "package": "svelte-kit package",
     "preview": "vite preview",
-    "deploy": "vite build && push-dir --dir=build --branch=gh-pages --cleanup --verbose"
+    "deploy": "vite build && push-dir --dir=build --branch=gh-pages --cleanup --verbose",
+    "deploy2": "vite build && ./node_modules/gh-pages/bin/gh-pages-clean.js && gh-pages -d build"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^1.0.0-next.39",
