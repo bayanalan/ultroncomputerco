@@ -57,7 +57,13 @@ runs android 12 Samsung DeX, 8gb RAM, 5 megapixel camera, 128GB Built in storage
 <!-- svelte-ignore a11y-missing-attribute -->
 <html class="pt-8"> </html>
 
+<style> 
+h1,p {
 
+color:rgb(239, 239, 239) !important;
+
+}
+</style>
 
 
 
