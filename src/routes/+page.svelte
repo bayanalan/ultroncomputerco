@@ -1,4 +1,4 @@
-<div class="navbar bg-white sticky top-1 rounded-full w-[calc(100%-20px)] mx-auto">
+<div class="navbar bg-white sticky z-50 top-1 rounded-full w-[calc(100%-20px)] mx-auto">
     <div class="navbar-center text-center mx-auto ">
       <!-- svelte-ignore a11y-missing-attribute -->
       <a class="text-black text-3xl ">
@@ -63,7 +63,11 @@ h1,p {
 color:rgb(239, 239, 239) !important;
 
 }
+
+.btn{z-index:1;}
+
 </style>
+
 
 
 
