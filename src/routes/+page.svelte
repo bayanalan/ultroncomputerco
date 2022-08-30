@@ -1,7 +1,7 @@
-<div class="navbar bg-white sticky z-50 top-1 rounded-full w-[calc(100%-20px)] mx-auto">
+<div class="navbar bg-white sticky z-50 top-2 rounded-full w-[calc(100%-20px)] mx-auto">
     <div class="navbar-center text-center mx-auto ">
       <!-- svelte-ignore a11y-missing-attribute -->
-      <a class="text-black text-3xl ">
+      <a class="poppins text-black text-3xl ">
         Ultron Computer
         <span class="poppins inline sm:hidden"> Co.</span>
         <span class="poppins hidden sm:inline"> Company</span>
@@ -22,7 +22,7 @@ runs android 12 Samsung DeX, 8gb RAM, 5 megapixel camera, 128GB Built in storage
 
 <h1 class=" poppins text-center text-6xl pt-14">EZELEA</h1>
 
-<h1 class="text-center pt-5">You might be thinking that I am crazy for naming the next big thing after a company that makes showerheads, but I make some computers out of boxes. The EZELEA showerhead box has a magnetic lid to open it. 1: I thought the lid was good for upgrading storage, 2: I didn't want to hot glue paper to the top of the computer to put an Ultron logo on it and call it the GameBox 2. I did hot glue paper to the bottom which actually looks pretty good. The EZELEA will be a retro gaming device smaller that a Xbox Series X! I already have the Raspberry Pi 4 8GB and the 256GB Micro SD Card. It also has No usb port. The controller is wireless with a dongle inside.</h1>
+<h1 class="text-center pt-5">You might be thinking that I am crazy for naming the next big thing after a company that makes showerheads, but I make some computers out of boxes. The EZELEA showerhead box also has a magnetic lid to open it. 1: I thought the lid was good for upgrading storage, 2: I didn't want to hot glue paper to the top of the computer to put an Ultron logo on it and call it the GameBox 2. I did hot glue paper to the bottom which actually looks pretty good. The EZELEA will be a retro gaming device smaller that a Xbox Series X! I already have the Raspberry Pi 4 8GB and the 256GB Micro SD Card. It also has No usb port. The controller is wireless with a dongle inside.</h1>
 
 <div class="w-full text-center">
   <a class=" poppins btn glass mt-6 rounded-full bg-white text-black hover:shadow-xl " href="https://www.amazon.com/hz/wishlist/ls/3CB3750IQR8GK?ref_=wl_share" target="_blank">EZELEA Wishlist</a>
@@ -54,8 +54,7 @@ runs android 12 Samsung DeX, 8gb RAM, 5 megapixel camera, 128GB Built in storage
 <a href="mailto:ultron.business@gmail.com?subject="  class=" poppins btn glass rounded-full bg-white text-black shadow-xl" target="_blank">Contact Me</a>
 </div>
 
-<!-- svelte-ignore a11y-missing-attribute -->
-<html class="pt-8"> </html>
+
 
 <style> 
 h1,p {

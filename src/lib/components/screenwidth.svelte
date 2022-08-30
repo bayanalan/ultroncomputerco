@@ -1,7 +1,4 @@
-
-
-  
-  {#if import.meta.env.DEV}
+{#if import.meta.env.DEV}
   <div class="w-min h-4 text-xs text-center fixed top-0 -left-1 px-2 -my-1 text-white bg-gray-500 rounded-lg overflow-hidden z-[100]">
     <span class="inline sm:hidden">xsm</span>
     <span class="hidden sm:inline md:hidden">sm</span>
