@@ -14,18 +14,19 @@
  why I started the Ultron Computer Co.</p>
  <h1 class="text-6xl text-center font-Roboto pt-14">UltronBook</h1>
  <h1 class="pt-5 text-center">The UltronBook is a Laptop which I designed in tinkercad. It has a 13 inch display,
-runs android 12 Samsung DeX, 8gb RAM, 5 megapixel camera, 128GB Built in storage, 3 fans, 8 usb ports, USB-C charging, a 3.5mm jack, and a 1TB Micro SD Card. I have the Galaxy S10, the display, and the trackpad. I apologize if the Micro SD Card was $184.25 </h1>
+runs android 12 Samsung DeX, 8gb RAM, 5 megapixel camera, 128GB Built in storage, 3 fans, 8 usb ports, USB-C charging, a 3.5mm jack, and a 1TB Micro SD Card. Currently, I have the display, and the trackpad. I apologize if the Micro SD Card was $184.25 </h1>
 
 <div class=" poppins w-full text-center">
   <a class="btn glass mt-6 rounded-full bg-white text-black hover:shadow-xl " href="https://www.amazon.com/hz/wishlist/ls/3EDWSS4QYWYUV/ref=nav_wishlist_lists_3" target="_blank">UltronBook Wishlist</a>
 </div>
 
-<h1 class=" poppins text-center text-6xl pt-14">EZELEA</h1>
+<h1 class=" poppins text-center text-6xl pt-14">PlayBox Slim Console</h1>
 
-<h1 class="text-center pt-5">You might be thinking that I am crazy for naming the next big thing after a company that makes showerheads, but I make some computers out of boxes. The EZELEA showerhead box also has a magnetic lid to open it. 1: I thought the lid was good for upgrading storage, 2: I didn't want to hot glue paper to the top of the computer to put an Ultron logo on it and call it the GameBox 2. I did hot glue paper to the bottom which actually looks pretty good. The EZELEA will be a retro gaming device smaller that a Xbox Series X! I already have the Raspberry Pi 4 8GB and the 256GB Micro SD Card. It also has No usb port. The controller is wireless with a dongle inside.</h1>
+<h1 class="text-center pt-5">The PlayBox is a gaming console almost as fast as a PS5. it is very simple, just a Galaxy S10+ with a USB C dock. is is very this and very fast with one HDMI, one USB 3rd gen port, one USB 2nd gen port and one multi-use USB C port. It also has force landscape and console launcher.</h1>
 
 <div class="w-full text-center">
-  <a class=" poppins btn glass mt-6 rounded-full bg-white text-black hover:shadow-xl " href="https://www.amazon.com/hz/wishlist/ls/3CB3750IQR8GK?ref_=wl_share" target="_blank">EZELEA Wishlist</a>
+  <!-- svelte-ignore a11y-invalid-attribute -->
+  <a class=" poppins btn glass mt-6 rounded-full bg-white text-black hover:shadow-xl " href="" target="_blank">Finished Wishlist</a>
 </div>
 
 <h1 class="text-center text-6xl pt-14">Dream PC</h1>
@@ -38,7 +39,7 @@ runs android 12 Samsung DeX, 8gb RAM, 5 megapixel camera, 128GB Built in storage
  
 <h1 class="text-center text-6xl pt-14 ">Ultron Desktop </h1>
 
-<h1 class="text-center pt-5">The EZELEA is a gaming device and only plays retro games at that. If you try to run a desktop OS like Raspberry Pi OS on the EZELEA then it will be too slow to run anything. That is why we created what you can call the UltronBook with a 24 inch display without the bottom part and without the hinge, although the real name is the Ultron Desktop. The way it is going to be made is by taking an old cracked Galaxy S10+ with DeX and putting it in a 3D-Printed desktop frame. It has 4 usb ports, USB-C charging, and a disc drive.</h1>
+<h1 class="text-center pt-5">This is what you can call the UltronBook with a 24 inch display without the bottom part and without the hinge, although the real name is the Ultron Desktop. The way it is going to be made is by taking an old cracked Galaxy S10+ with DeX and putting it in a 3D-Printed desktop frame. It has 4 usb ports, USB-C charging, and a disc drive.</h1>
 
 <div class="w-full text-center">
   <a class=" poppins btn glass mt-6 rounded-full bg-white text-black hover:shadow-xl " href="https://www.amazon.com/hz/wishlist/ls/WMS8PLIXHW84?ref_=wl_share" target="_blank">Ultron Desktop Wishlist</a>
