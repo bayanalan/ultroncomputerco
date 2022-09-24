@@ -14,20 +14,31 @@
  why I started the Ultron Computer Co.</p>
  <h1 class="text-6xl text-center font-Roboto pt-14">UltronBook</h1>
  <h1 class="pt-5 text-center">The UltronBook is a Laptop which I designed in tinkercad. It has a 13 inch display,
-runs android 12 Samsung DeX, 8gb RAM, 5 megapixel camera, 128GB Built in storage, 3 fans, 8 usb ports, USB-C charging, a 3.5mm jack, and a 1TB Micro SD Card. Currently, I have the display, and the trackpad. I apologize if the Micro SD Card was $184.25 </h1>
+runs android 13 Samsung DeX, 8gb RAM, 5 megapixel camera, 128GB Built in storage, 3 fans, 8 usb ports, USB-C charging, a 3.5mm jack, and a 1TB Micro SD Card. Currently, I have the display, and the trackpad. I apologize if the Micro SD Card was $184.25 </h1>
 
 <div class=" poppins w-full text-center">
   <a class="btn glass mt-6 rounded-full bg-white text-black hover:shadow-xl " href="https://www.amazon.com/hz/wishlist/ls/3EDWSS4QYWYUV/ref=nav_wishlist_lists_3" target="_blank">UltronBook Wishlist</a>
 </div>
 
-<h1 class=" poppins text-center text-6xl pt-14">PlayBox Slim Console</h1>
+<h1 class=" poppins text-center text-6xl pt-14">PlayBox 2</h1>
 
-<h1 class="text-center pt-5">The PlayBox is a gaming console almost as fast as a PS5. it is very simple, just a Galaxy S10+ with a USB C dock. is is very this and very fast with one HDMI, one USB 3rd gen port, one USB 2nd gen port and one multi-use USB C port. It also has force landscape and console launcher.</h1>
+<h1 class="text-center pt-5">The PlayBox 2 is a gaming console almost as fast as a PS5. it is very simple, just a Galaxy S10+ with a USB C dock. it is very fast with one HDMI, one USB 3rd gen port, one USB 2nd gen port and one multi-use USB C port. It also has force landscape and console launcher.</h1>
 
 <div class="w-full text-center">
   <!-- svelte-ignore a11y-invalid-attribute -->
-  <a class=" poppins btn glass mt-6 rounded-full bg-white text-black hover:shadow-xl " href="" target="_blank">Finished Wishlist</a>
+  <a class=" poppins btn glass mt-6 rounded-full bg-white text-black hover:shadow-xl " href="" target="https://www.amazon.com/hz/wishlist/ls/37KNG8GX9HOEZ?ref_=wl_share">PlayBox 2 Wishlist</a>
 </div>
+
+<h1 class=" poppins text-center text-6xl pt-14">PlayCube</h1>
+
+<h1 class="text-center pt-5">Yes the PlayBox is amazing, but there was a keyboard problem. It was based on the Galaxy S10 android, which means you have to get up to type on a phone screen, and when you have a cold (I dont) you cant relax and play a video game. So I found a better controller! A keyboard with a trackpad! It has much better menu navigation and is much easier to use.</h1>
+
+<div class="w-full text-center">
+  <!-- svelte-ignore a11y-invalid-attribute -->
+  <a class=" poppins btn glass mt-6 rounded-full bg-white text-black hover:shadow-xl " href="" target="https://www.amazon.com/hz/wishlist/ls/2ZO69VMW2G8LZ?ref_=wl_sharex">PlayCube Wishlist</a>
+</div>
+
+
 
 <h1 class="text-center text-6xl pt-14">Dream PC</h1>
 
