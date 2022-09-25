@@ -26,7 +26,7 @@ runs android 13 Samsung DeX, 8gb RAM, 5 megapixel camera, 128GB Built in storage
 
 <div class="w-full text-center">
   <!-- svelte-ignore a11y-invalid-attribute -->
-  <a class=" poppins btn glass mt-6 rounded-full hover:shadow-xl " href="" target="https://www.amazon.com/hz/wishlist/ls/37KNG8GX9HOEZ?ref_=wl_share">PlayBox 2 Wishlist</a>
+  <a class=" poppins btn glass mt-6 rounded-full hover:shadow-xl " href="https://www.amazon.com/hz/wishlist/ls/37KNG8GX9HOEZ?ref_=wl_share" target="_blank">PlayBox 2 Wishlist</a>
 </div>
 
 <h1 class=" poppins text-center text-6xl pt-14">PlayCube</h1>
@@ -35,7 +35,7 @@ runs android 13 Samsung DeX, 8gb RAM, 5 megapixel camera, 128GB Built in storage
 
 <div class="w-full text-center">
   <!-- svelte-ignore a11y-invalid-attribute -->
-  <a class=" poppins btn glass mt-6 rounded-full hover:shadow-xl " href="" target="https://www.amazon.com/hz/wishlist/ls/2ZO69VMW2G8LZ?ref_=wl_sharex">PlayCube Wishlist</a>
+  <a class=" poppins btn glass mt-6 rounded-full hover:shadow-xl " href="https://www.amazon.com/hz/wishlist/ls/2ZO69VMW2G8LZ?ref_=wl_sharex" target="_blank">PlayCube Wishlist</a>
 </div>
 
 
